@@ -19,6 +19,7 @@ for col in df.columns:
     plt.tight_layout()
     plt.show()
 ###Tarea 2: Generar estadísticas descriptivas y visualizaciones
+# en esta grafica se puede on+bservar como los datos sobre las viviendas en boston combian dependiendo de su obicacion y su antiguedad}
 
 ####Para el "Valor medio de las viviendas ocupadas por sus propietarios" proporcione un diagrama de caja (boxplot)
 import pandas as pd
