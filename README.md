@@ -1,6 +1,7 @@
 ####Tarea 1: Familiarizarse con el conjunto de datos
 import pandas as pd
 import matplotlib.pyplot as plt
+#camilo hijuepuata
 
 url = "https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv"
 df = pd.read_csv(url)
